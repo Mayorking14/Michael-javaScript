@@ -2,7 +2,7 @@ function squareNumber(numbers){
 
 	for(numbers = 1; numbers < 6; numbers++){
 		numbers1 = numbers * numbers
-	console.log(numbers + "squared is " + numbers1)
+	console.log(numbers +  " squared is " + numbers1)
 }
 
 }
